@@ -1,0 +1,30 @@
+﻿[
+  {
+    "id": 1,
+    "name": "Mouse Gamer",
+    "description": "Mouse ergonómico con seis botones para pruebas QA.",
+    "price": 18.5,
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Teclado Mecánico",
+    "description": "Teclado compacto ideal para trabajo y automatización.",
+    "price": 32.99,
+    "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Monitor 24 pulgadas",
+    "description": "Pantalla Full HD para desarrollo y ejecución de pruebas.",
+    "price": 120,
+    "image": "https://images.unsplash.com/photo-1527443154391-507e9dc6c5cc?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Audífonos",
+    "description": "Accesorio adicional de catálogo para validar carrito.",
+    "price": 24.75,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=1200&auto=format&fit=crop"
+  }
+]
